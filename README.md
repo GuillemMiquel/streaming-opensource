@@ -13,3 +13,4 @@ Uses nginx-rtmp module, receives an RTMP stream and then using exec directives l
 
 Current issues:
 * Dash manifests is not stable and it's not passing Dash validator
+Testing permissions
